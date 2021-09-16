@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+img{max-width: 100%;}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.name_higlight{
+    color: orange;
+}
+.half_width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half_width img{
+    width: 100%;
+}
